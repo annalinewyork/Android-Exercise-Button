@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ButtonExercise02</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text01">Large Text</string>
+    <string name="button01">New Button</string>
+    <string name="text02">Large Text</string>
+    <string name="button02">New Button</string>
+    <string name="text_boy">Hello, Boy</string>
+    <string name="button_boy">Boy Clike me</string>
+    <string name="text_girl">Hello, Girl</string>
+    <string name="button_girl">Girl click me</string>
+</resources>
